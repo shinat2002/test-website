@@ -33,4 +33,8 @@ body {
     margin-top: 30px;
   }
   
+  img {
+    display: block;
+    margin: 0 auto;
+  }
   

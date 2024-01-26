@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #DDE1E4
+    background-color: #f0f0f0; /* Set your desired background color */
   }
   
   h1 {
@@ -11,8 +11,8 @@ body {
   }
   
   button {
-    background-color: #4caf50; 
-    color: #fff;
+    background-color: #4caf50; /* Set your desired button background color */
+    color: #fff; /* Set your desired button text color */
     border: none;
     padding: 10px 20px;
     margin: 10px;
@@ -26,7 +26,7 @@ body {
   }
   
   button:hover {
-    background-color: #45a049; 
+    background-color: #45a049; /* Set your desired button hover background color */
   }
   
   h2 {
@@ -37,4 +37,5 @@ body {
     display: block;
     margin: 0 auto;
   }
+  
   
